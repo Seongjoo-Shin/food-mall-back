@@ -1,4 +1,4 @@
-package com.order.order.Entity;
+package com.order.order.Domain.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
